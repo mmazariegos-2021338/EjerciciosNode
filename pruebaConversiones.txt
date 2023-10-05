@@ -1,0 +1,6 @@
+prueba funcion 
+Los grados a farenheit son: 59
+Los kilogramos a libras son: 33.07
+Los kilometros a millas son:: 34.18
+Los pies a pulgadas son: 300
+Las Pulgadas a centimetros son: 165.10
